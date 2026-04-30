@@ -89,6 +89,6 @@ Vercel suunab automaatselt turvalisuse seadistused (HTTPS, etc).
 
 Kõik tabelid on kaitstud RLS-iga – igal kasutajal juurdepääs vaid oma andmetele.
 
-## Licens
+## License
 
 MIT
