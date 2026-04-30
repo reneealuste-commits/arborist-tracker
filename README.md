@@ -92,3 +92,5 @@ Kõik tabelid on kaitstud RLS-iga – igal kasutajal juurdepääs vaid oma andme
 ## Licens
 
 MIT
+
+Commit changes
