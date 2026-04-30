@@ -1,7 +1,7 @@
 'use client'
 import dynamic from 'next/dynamic'
 
-const ArboristApp = dynamic(() => import('../../components/ArboristApp'), {
+const ArboristApp = dynamic(() => import('../components/ArboristApp'), {
   ssr: false,
   loading: () => (
     <div style={{minHeight:'100vh',display:'flex',alignItems:'center',justifyContent:'center'}}>
